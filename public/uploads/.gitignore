@@ -1,0 +1,14 @@
+# ignore all uploaded files (do not commit to git)
+*
+!.gitignore
+
+# except do not ignore the "seed" images
+!/clipart/
+!/clipart/1.svg
+!/clipart/2.svg
+!/clipart/3.svg
+!/clipart/4.svg
+!/clipart/5.svg
+!/clipart/6.svg
+!/clipart/7.svg
+!/clipart/8.svg
